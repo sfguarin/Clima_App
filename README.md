@@ -3,7 +3,7 @@
 Esta es la interfaz que se muestra en consola al ejecutar el programa.
 
 Esta app sirve para seleccionar un lugar en el mundo y determinar su ubicacion (longitud y latitud), temperatura y
-una breve descripcion del clima. Además, queda el historial de las busqeudas realizadas
+una breve descripcion del clima. Además, queda el historial de las busquedas realizadas
 
 No olvidar que al descargar toca hacer el npm install en la consola para importar los modulos complementarios 
 que permiten el funcionamiento de la app.
